@@ -32,3 +32,4 @@ let separarParimpar = (nums) => {
 };
 
 console.log(separarParimpar([1, 2, 3, 4, 5, 6]));
+// Output: Os números Pares são 2,4,6 e os Impares são 1,3,5 
